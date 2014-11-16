@@ -1,2 +1,4 @@
 #!/bin/bash
+cat &lt;&lt;EOF
+---
 echo "--- {}"
